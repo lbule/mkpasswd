@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	defaultString   string = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+	defaultString   string = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 	numberString    string = "1234567890"
 	characterString string = "!@#$%^&*+?"
 )
